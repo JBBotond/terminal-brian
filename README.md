@@ -1,5 +1,5 @@
-You can open Brian by cd -ing into the folder and running ./brian. 
-Make sure Brian is executable (chown {username} brian)
+You can open Brian by cd -ing into the folder and running ./brian. <br>
+Make sure Brian is executable (chown {username} brian) <br>
 You can make him:
   wave by typing "wave"
   jump by typing "jump"
