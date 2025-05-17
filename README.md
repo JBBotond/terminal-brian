@@ -4,7 +4,7 @@ You can make him:
   <ul>
   <li>wave by typing "wave"</li>
   <li>jump by typing "jump"</li>
-  <li>exit by typing "exit"</li>li>
+  <li>exit by typing "exit"</li>
   </ul>
   <br>
     -you can also follow up with "-{integer}" to tell him how many times to perform an action <br>
